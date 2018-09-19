@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name mapH-rescue)(type Legacy)(uri ${KIPRJMOD}/mapH-rescue.lib)(options "")(descr ""))
+  (lib (name fona_808)(type Legacy)(uri /Users/rryansilva/Documents/KiCad/fona_808.lib)(options "")(descr ""))
+  (lib (name arduino)(type Legacy)(uri /Users/rryansilva/Documents/KiCad/arduino.lib)(options "")(descr ""))
+  (lib (name ArduProMiniTKB)(type Legacy)(uri /Users/rryansilva/Documents/KiCad/Third-party_libraries/ArduProMiniTKB.lib)(options "")(descr ""))
+  (lib (name switch-tact)(type Legacy)(uri /Users/rryansilva/Documents/KiCad/Third-party_libraries/parts/switch-tact.lib)(options "")(descr ""))
+  (lib (name switch-misc)(type Legacy)(uri /Users/rryansilva/Documents/KiCad/Third-party_libraries/parts/switch-misc.lib)(options "")(descr ""))
+  (lib (name SPDT)(type Legacy)(uri /Users/rryansilva/Documents/KiCad/Third-party_libraries/joeferner-kicad/SPDT.lib)(options "")(descr ""))
+)
